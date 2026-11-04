@@ -1,4 +1,4 @@
-# HyperHLE-Reborn
+# TappyHLE
 
 <p align="center"><img src="./Picsart_26-10-20_10-43-04-335.jpg" alt="Senses" width="700"></p>
 **HyperHLE-Reborn** is a community-maintained fork of [HyperHLE](https://github.com/HyperHLE/HyperHLE), itself based on [touchHLE](https://github.com/touchHLE/touchHLE). The user-facing name of this project is **HyperHLE**.
@@ -41,6 +41,8 @@ The titles below have been tested with HyperHLE-Reborn and are known to run. Com
 - Talking Tom Hero Dash (Playable)
 - My Talking Hank (Playable)
 - Subway Surfers 1.106.0 (Playable)
+- Slendrina Free (Playable)
+- Slendrina:The Cellar (Playable)
 - And more more games
 
 ## Build and documentation

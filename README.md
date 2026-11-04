@@ -44,7 +44,9 @@ The titles below have been tested with HyperHLE-Reborn and are known to run. Com
 - Slendrina Free (Playable)
 - Slendrina:The Cellar (Playable)
 - Granny:Chapter 2 (Ingame)
+- Minion Rush 6.3.0 (Playable)
 - and more more games
+  
 ## Build and documentation
 
 Build and run a desktop version with Cargo:

@@ -43,8 +43,8 @@ The titles below have been tested with HyperHLE-Reborn and are known to run. Com
 - Subway Surfers 1.106.0 (Playable)
 - Slendrina Free (Playable)
 - Slendrina:The Cellar (Playable)
-- And more more games
-
+- Granny:Chapter 2 (Ingame)
+- and more more games
 ## Build and documentation
 
 Build and run a desktop version with Cargo:
